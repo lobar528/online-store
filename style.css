@@ -278,3 +278,6 @@ footer{
 .display p:hover{
     text-decoration: underline;
 }
+.active{
+    color: #8000ff !important;
+}
